@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "import java.math.BigInteger        \n\nfun main() {\n    // write your code\
+    \ here\n}"
+  learner_created: false
+- name: src/test.kt
+  visible: true
+  learner_created: true
+- name: src/VERSION2.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/7971#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 09 May 2021 12:05:42 UTC
+record: -1

@@ -1,0 +1,54 @@
+# Project exclude paths
+/.gradle/
+/Number Base Converter/task/build/
+/Number Base Converter/task/out/
+/Number Base Converter/task/out/production/classes/
+/Number Base Converter/task/out/test/classes/
+/Topics/BigDecimal/Average/out/
+/Topics/BigDecimal/Average/out/production/classes/
+/Topics/BigDecimal/Deposit/out/
+/Topics/BigDecimal/Deposit/out/production/classes/
+/Topics/BigDecimal/Rounding with a given precision/out/
+/Topics/BigDecimal/Rounding with a given precision/out/production/classes/
+/Topics/BigInteger/Division/out/
+/Topics/BigInteger/Division/out/production/classes/
+/Topics/BigInteger/Exabytes/out/
+/Topics/BigInteger/Exabytes/out/production/classes/
+/Topics/BigInteger/LCM/out/
+/Topics/BigInteger/LCM/out/production/classes/
+/Topics/BigInteger/Max/out/
+/Topics/BigInteger/Max/out/production/classes/
+/Topics/BigInteger/Percentage/out/
+/Topics/BigInteger/Percentage/out/production/classes/
+/Topics/BigInteger/Theory/out/
+/Topics/BigInteger/Theory/out/production/classes/
+/Topics/For loop and arrays/Check the numbers/out/
+/Topics/For loop and arrays/Check the numbers/out/production/classes/
+/Topics/For loop and arrays/Counting/out/
+/Topics/For loop and arrays/Counting/out/production/classes/
+/Topics/For loop and arrays/Cyclically shifting elements/out/
+/Topics/For loop and arrays/Cyclically shifting elements/out/production/classes/
+/Topics/For loop and arrays/Find the max/out/
+/Topics/For loop and arrays/Find the max/out/production/classes/
+/Topics/For loop and arrays/Individual taxes/out/
+/Topics/For loop and arrays/Individual taxes/out/production/classes/
+/Topics/For loop and arrays/Is it here/out/
+/Topics/For loop and arrays/Is it here/out/production/classes/
+/Topics/For loop and arrays/Just checking/out/
+/Topics/For loop and arrays/Just checking/out/production/classes/
+/Topics/For loop and arrays/Right Rotation/out/
+/Topics/For loop and arrays/Right Rotation/out/production/classes/
+/Topics/For loop and arrays/Theory/out/
+/Topics/For loop and arrays/Theory/out/production/classes/
+/Topics/For loop and arrays/Triples/out/
+/Topics/For loop and arrays/Triples/out/production/classes/
+/Topics/List/Even numbers/out/
+/Topics/List/Even numbers/out/production/classes/
+/Topics/List/Indexes/out/
+/Topics/List/Indexes/out/production/classes/
+/Topics/List/Number of occurrences/out/
+/Topics/List/Number of occurrences/out/production/classes/
+/Topics/List/Sum of numbers/out/
+/Topics/List/Sum of numbers/out/production/classes/
+/Topics/List/Theory/out/
+/Topics/List/Theory/out/production/classes/
